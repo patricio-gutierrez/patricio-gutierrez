@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patricio-gutierrez
-- 👀 I’m interested in HTML, CSS, Javascript, Node and many things more.
+- 👀 I’m interested in HTML, CSS, Javascript, PHP and many things more.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me me@patriciog.com
